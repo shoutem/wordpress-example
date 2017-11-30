@@ -1,0 +1,14 @@
+{
+  "name": "booklet-demo",
+  "title": "Booklet-demo",
+  "version": "0.0.3",
+  "description": "Adds custom layout to booklet shopify",
+  "platform": "1.4.*",
+  "screens": [
+    {
+      "name": "FeaturedProductsList",
+      "title": "List with a featured image",
+      "extends": "shoutem.shopify.ProductsListScreen"
+    }
+  ]
+}
